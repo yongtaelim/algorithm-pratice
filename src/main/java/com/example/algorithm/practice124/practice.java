@@ -1,4 +1,4 @@
-package com.example.algorithm;
+package com.example.algorithm.practice124;
 
 import java.util.LinkedList;
 import java.util.Queue;
